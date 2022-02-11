@@ -14,9 +14,9 @@
     "remove watermark",
     "watermark detection"
   ],
-  "homepage": "https://github.com/turakvlad/replace-color#readme",
-  "bugs": "https://github.com/turakvlad/replace-color/issues",
-  "repository": "turakvlad/replace-color",
+  "homepage": "https://github.com/if4lcon/replace-multiple-colors#readme",
+  "bugs": "https://github.com/if4lcon/replace-multiple-colors/issues",
+  "repository": "if4lcon/replace-multiple-colors",
   "license": "MIT",
   "author": "Vladyslav Turak <turakvlad@gmail.com>",
   "files": [
